@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Importance of Education</title>
+
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #f4f6f8;
+      margin: 0;
+      padding: 0;
+      font-size: 18px;   /* Medium size text */
+      line-height: 1.7;
+      color: #222;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 30px auto;
+      background-color: #ffffff;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 36px;
+      color: #b30000;
+    }
+
+    h2 {
+      font-size: 26px;
+      margin-top: 30px;
+      color: #333;
+    }
+
+    p {
+      font-size: 18px;
+    }
+
+    ul {
+      font-size: 18px;
+      margin-left: 25px;
+    }
+
+    img {
+      width: 100%;
+      max-width: 350px;
+      display: block;
+      margin: 20px auto;
+      border-radius: 6px;
+    }
+
+    .contact p {
+      margin: 6px 0;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 30px;
+      font-size: 16px;
+      color: #555;
+    }
+
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <h1>Importance of Education</h1>
+    <p style="text-align:center;"><strong>By Jamir Ali</strong></p>
+
+    <p>
+      Education is one of the most important parts of our life. It helps us gain
+      knowledge, improve our thinking, and become better human beings. Education
+      guides us to choose the right path in life and achieve success.
+    </p>
+
+    <h2>Advantages of Education</h2>
+    <ul>
+      <li>Education gives us knowledge and understanding.</li>
+      <li>It helps us think clearly and make good decisions.</li>
+      <li>Education improves our skills and confidence.</li>
+      <li>It helps us get better job opportunities.</li>
+      <li>Education makes us responsible citizens.</li>
+    </ul>
+
+    <h2>My Hobbies Related to Education</h2>
+    <ul>
+      <li>Reading books daily</li>
+      <li>Writing small paragraphs</li>
+      <li>Learning coding and programming</li>
+      <li>Improving memory and confidence</li>
+    </ul>
+
+    <h2>Degree Student Image</h2>
+    <!-- Replace image.jpg with your image file -->
+    <img src="image.jpg" alt="Degree Student">
+
+    <h2>Contact Me</h2>
+    <div class="contact">
+      <p><strong>Phone:</strong> 9892461321</p>
+      <p><strong>Email:</strong> alijamir61328@gmail.com</p>
+      <p><strong>YouTube:</strong> <a href="#">Click here</a></p>
+    </div>
+
+    <footer>
+      © 2025 Jamir Ali
+    </footer>
+
+  </div>
+
+</body>
+</html>
